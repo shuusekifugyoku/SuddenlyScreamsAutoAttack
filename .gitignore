@@ -1,0 +1,49 @@
+# Gradle
+.gradle/
+gradle/
+build/
+run/
+runClient/
+runServer/
+runData/
+
+# Eclipse
+bin/
+*.launch
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+hs_err_*.log
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Misc
+*.jar
+*.zip
+*.gz
+*.log
+*.bat
+changelog.txt
+filter.list
+CREDITS.txt
+gradlew
+.gitattributes
+build.gradle
+gradle.properties
+settings.gradle

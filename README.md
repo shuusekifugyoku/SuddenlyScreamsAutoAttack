@@ -1,0 +1,2 @@
+A Minecraft mod for 1.20.1 forge, no config, just press left click and enjoy
+P.S.: This will be considered cheating on some servers. Please consult the server administrator before using it in multiplayer games.
